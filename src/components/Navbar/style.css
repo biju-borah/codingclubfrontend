@@ -1,0 +1,23 @@
+.navbar {
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+}
+
+.nav-tran {
+    background: transparent !important;
+}
+
+.nav-color {
+    background-color: #1c1f35 !important;
+    box-shadow: 0 2px 2px -2px rgba(135, 184, 240, 0.2);
+}
+
+
+.nav-link {
+    font-family: monospace;
+    color: rgb(209, 205, 205) !important;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
