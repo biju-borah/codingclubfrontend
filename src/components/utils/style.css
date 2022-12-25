@@ -9,3 +9,15 @@
     width: 0;
     z-index: 9;
 }
+
+.angle_top {
+    border-right: 100vw solid rgba(0, 0, 0, 0);
+    border-top: 100px solid #ffffff;
+    display: block;
+    height: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 0;
+    z-index: 1;
+}
