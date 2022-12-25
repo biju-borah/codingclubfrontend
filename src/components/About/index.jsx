@@ -1,12 +1,12 @@
 import React from 'react'
-import AngleDivider from '../utils/AngleDivider'
+import AngleBottomDivider from '../utils/AngleBottomDivider'
 import './style.css'
 
 function About() {
   return (
 
     <div className='about_shape_bg'>
-      <AngleDivider />
+      <AngleBottomDivider />
       <div className="row align-items-center">
         <div className="col-lg-8 offset-lg-2 col-md-12 col-sm-12">
           <div className="title_default_dark title_border text-center">
