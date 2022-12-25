@@ -1,5 +1,5 @@
 .transparent_effect {
-    height: 100%;
+    height: calc(100vh + 100px);
     width: 100%;
     opacity: 0.4;
     position: absolute;
@@ -148,7 +148,7 @@
 }
 
 .landing-main {
-    height: 100vh;
+    height: calc(100vh + 100px) !important;
     /* background-color: #1c1f35; */
 }
 

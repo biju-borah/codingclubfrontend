@@ -3,7 +3,7 @@ import './style.css'
 
 export default function Hero() {
     return (
-        <section className="section_banner section_gradiant3 overflow_hide" style={{ height: '100vh' }}>
+        <section className="section_banner section_gradiant3 overflow_hide" style={{ height: 'calc(100vh + 100px)' }}>
             <div id="hero" className="landing-main">
                 <h1 data-aos="fade-up" className="name aos-init aos-animate" style={{ zIndex: '10' }}>Coding Club</h1>
                 <div data-aos="fade-up" className="name-2 aos-init aos-animate" style={{ zIndex: '10' }}>
