@@ -1,9 +1,25 @@
 import React from 'react'
+import { useState } from 'react'
+import { useEffect } from 'react'
 import './style.css'
 
 function Navbar() {
+
+    const [active, setactive] = useState(false)
+    useEffect(() => {
+        window.onscroll = function () {
+            "use strict";
+            if (document.body.scrollTop >= 10 || document.documentElement.scrollTop >= 10) {
+                setactive(true)
+            }
+            else {
+                setactive(false)
+            }
+        };
+    }, [])
+
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark nav-tran" id="navbar">
+        <nav className={active ? "navbar navbar-expand-lg navbar-dark bg-dark nav-color" : "navbar navbar-expand-lg navbar-dark bg-dark nav-tran"} id="navbar">
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">
                     <img src="/src/assets/react.svg" alt="Bootstrap" width="30" style={{ marginLeft: '1rem' }} />
