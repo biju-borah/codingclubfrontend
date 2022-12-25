@@ -1,0 +1,17 @@
+.interview_body::before {
+    content: '';
+    background-image: url('/src/assets/interview_bg.png');
+    padding: 100px 0;
+    background-position: center;
+    /* background-size: cover; */
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+
+.interview_body {
+    height: 60vh;
+    position: relative;
+}

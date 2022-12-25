@@ -1,5 +1,6 @@
 import React from 'react'
 import AngleBottomDivider from '../utils/AngleBottomDivider'
+import AngleTopDivider from '../utils/AngleTopDivider'
 import './style.css'
 
 function About() {
@@ -17,6 +18,7 @@ function About() {
           </div>
         </div>
       </div>
+      <AngleTopDivider />
     </div>
   )
 }
