@@ -1,5 +1,4 @@
 import React from 'react'
-import { useEffect } from 'react'
 import './style.css'
 
 export default function Hero() {
@@ -13,7 +12,18 @@ export default function Hero() {
                 </div>
             </div>
             <canvas id="banner_canvas" className="transparent_effect" width="1233" height="601"></canvas>
-
+            <div className='socialHandle'>
+                <div className='socialIcon'>
+                    <a href="#" target="_blank"><img src="/logos/linkedin.svg" alt="linkedin" /></a>
+                </div>
+                <div className='socialIcon'>
+                    <a href="#" target="_blank"><img src="/logos/facebook.svg" alt="facebook" /></a>
+                </div>
+                <div className='socialIcon'>
+                    <a href="#" target="_blank"><img src="/logos/instagram.svg" alt="instagram" /></a>
+                </div>
+                <div className='verticalLine'></div>
+            </div>
         </section>
     )
 }
