@@ -3,6 +3,7 @@ import About from '../../components/About'
 import Interview from '../../components/Archive/Interview/Interview'
 import Hero from '../../components/Hero'
 import Navbar from '../../components/Navbar'
+import Youtube from '../../components/Youtube/Youtube'
 
 function Home() {
     return (
@@ -11,6 +12,7 @@ function Home() {
             <Hero />
             <About />
             <Interview />
+            <Youtube />
         </>
     )
 }

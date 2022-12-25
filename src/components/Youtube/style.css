@@ -1,0 +1,17 @@
+.youtube_bg::before {
+    content: '';
+    background-image: url('/src/assets/contestbg.svg');
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.25;
+}
+
+.youtube_bg {
+    position: relative;
+    padding: 100px 0;
+}
