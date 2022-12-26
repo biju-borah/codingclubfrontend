@@ -18,3 +18,13 @@
 .interview_body .container {
     padding: 5rem 10rem;
 }
+
+@media (max-width: 768px) {
+    .interview_body .container {
+        padding: 5rem 2rem;
+    }
+
+    .interview_body .card {
+        margin: 1rem auto;
+    }
+}
