@@ -1,5 +1,6 @@
 import React from 'react'
 import About from '../../components/About'
+import Contest from '../../components/Archive/Contest/Contest'
 import Interview from '../../components/Archive/Interview/Interview'
 import Hero from '../../components/Hero'
 import Navbar from '../../components/Navbar'
@@ -13,6 +14,7 @@ function Home() {
             <About />
             <Interview />
             <Youtube />
+            <Contest />
         </>
     )
 }
