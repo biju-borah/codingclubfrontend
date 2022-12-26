@@ -24,7 +24,7 @@ function WaveDivider() {
                 <use xlinkHref="#gentle-wave" x="50" y="0" fill="rgba(255, 255, 255, 0.10)" />
             </g>
             <g className="parallax3">
-                <use xlinkHref="#gentle-wave" x="50" y="9" fill="#3461c1" />
+                <use xlinkHref="#gentle-wave" x="50" y="9" fill="rgba(255, 255, 255, 0.10)" />
             </g>
             {/* <g className="parallax4">
                 <use xlinkHref="#gentle-wave" x="50" y="6" fill="#fff" />
