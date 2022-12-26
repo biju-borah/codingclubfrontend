@@ -17,18 +17,18 @@ function WaveDivider() {
        58 18 88 18
        v44h-352z" />
             </defs>
-            <g className="parallax1">
-                <use xlinkHref="#gentle-wave" x="50" y="3" fill="#f461c1" />
-            </g>
+            {/* <g className="parallax1">
+                <use xlinkHref="#gentle-wave" x="50" y="3" fill="rgba(255, 255, 255, 0.10)" />
+            </g> */}
             <g className="parallax2">
-                <use xlinkHref="#gentle-wave" x="50" y="0" fill="#4579e2" />
+                <use xlinkHref="#gentle-wave" x="50" y="0" fill="rgba(255, 255, 255, 0.10)" />
             </g>
             <g className="parallax3">
                 <use xlinkHref="#gentle-wave" x="50" y="9" fill="#3461c1" />
             </g>
-            <g className="parallax4">
+            {/* <g className="parallax4">
                 <use xlinkHref="#gentle-wave" x="50" y="6" fill="#fff" />
-            </g>
+            </g> */}
         </svg>
 
     )
