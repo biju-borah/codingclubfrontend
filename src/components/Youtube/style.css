@@ -15,3 +15,13 @@
     position: relative;
     padding: 100px 0;
 }
+
+@media (max-width: 768px) {
+    /* .youtube_bg .container {
+        padding: 5rem 2rem;
+    } */
+
+    .youtube_bg .yt-card {
+        margin: 1rem auto;
+    }
+}
