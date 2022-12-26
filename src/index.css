@@ -1,3 +1,7 @@
+#root {
+  overflow-x: hidden;
+}
+
 body {
   background: #ffffff none repeat scroll 0 0;
   color: #7a7a7a;
