@@ -1,4 +1,5 @@
 import React from 'react'
+import WaveDivider from '../../utils/WaveDivider'
 import './style.css'
 
 function Contest() {
@@ -44,6 +45,7 @@ function Contest() {
                     </div>
                 </div>
             </div>
+            <WaveDivider />
         </div>
     )
 }
