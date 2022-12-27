@@ -21,7 +21,7 @@ function Faq() {
                                 <div className="card-header" id="headingOne">
                                     <h6 className="mb-0">
                                         <a className="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" data-bs-toggle="collapse" data-bs-target="#collapseOne">
-                                            Collapsible Group Item #1 <i className="fa-solid fa-arrow-down"></i>
+                                            If the roses are red, why are violets blue? <i className="fa-solid fa-arrow-down"></i>
                                         </a>
                                     </h6>
                                 </div>
@@ -36,7 +36,7 @@ function Faq() {
                                 <div className="card-header" id="headingTwo">
                                     <h6 className="mb-0">
                                         <a className="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
-                                            Collapsible Group Item #2 <i className="fa-solid fa-arrow-down"></i>
+                                            How do you hang toilet paper: over or under? <i className="fa-solid fa-arrow-down"></i>
                                         </a>
                                     </h6>
                                 </div>
@@ -50,7 +50,7 @@ function Faq() {
                                 <div className="card-header" id="headingThree">
                                     <h6 className="mb-0">
                                         <a className="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" data-bs-toggle="collapse" data-bs-target="#collapseThree">
-                                            Collapsible Group Item #3 <i className="fa-solid fa-arrow-down"></i>
+                                            Why is it that round pizzas come in square boxes? <i className="fa-solid fa-arrow-down"></i>
                                         </a>
                                     </h6>
                                 </div>

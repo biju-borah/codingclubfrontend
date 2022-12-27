@@ -160,8 +160,8 @@
     margin-right: 5px;
 }
 
-.card-body::before {
+/* .card-body::before {
     content: "A.";
     font-weight: 600;
     margin-right: 5px;
-}
+} */
