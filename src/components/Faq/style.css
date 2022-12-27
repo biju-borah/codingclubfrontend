@@ -14,18 +14,22 @@
     z-index: 2;
 }
 
-.faq_question .card-header a::after {
-    content: "\f105";
+.faq_question .card-header a i {
+    /* content: "\f105";
     font-family: "Ionicons";
     font-size: 20px;
-    font-weight: normal;
+    font-weight: normal; */
     position: absolute;
     right: 15px;
-    top: 14px;
+    top: 18px;
+    font-size: 24px;
 }
 
-.faq_question .card-header a.collapsed::after {
-    content: "\f10b";
+.faq_question .card-header a.collapsed i {
+    position: absolute;
+    transform: rotate(-90deg);
+    right: 15px;
+    top: 14px;
 }
 
 .faq_question .card-header a::before {
