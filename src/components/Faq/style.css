@@ -1,0 +1,167 @@
+#faq {
+    padding: 100px 0;
+}
+
+.faq_question .card {
+    border: 0;
+    background-color: transparent;
+}
+
+.faq_question .card-header {
+    background-color: transparent;
+    border: 0 none;
+    padding: 0;
+    z-index: 2;
+}
+
+.faq_question .card-header a i {
+    /* content: "\f105";
+    font-family: "Ionicons";
+    font-size: 20px;
+    font-weight: normal; */
+    position: absolute;
+    right: 15px;
+    top: 18px;
+    font-size: 24px;
+}
+
+.faq_question .card-header a.collapsed i {
+    position: absolute;
+    transform: rotate(-90deg);
+    right: 15px;
+    top: 14px;
+}
+
+.faq_question .card-header a::before {
+    background-color: #193f88;
+    content: "?";
+    font-weight: 600;
+    font-size: 24px;
+    text-align: center;
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    color: #fff;
+    margin-right: 10px;
+    vertical-align: middle;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.faq_question .card-header a {
+    border-color: #193f88;
+    color: #193f88;
+    background-color: #fff;
+    border: 1px solid #193f88;
+    border-radius: 5px 5px 0 0;
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 30px 15px 50px;
+    position: relative;
+    margin-top: 10px;
+    text-align: start;
+}
+
+.faq_question .card-header a[aria-expanded="false"] {
+    background-color: transparent;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    margin: 0;
+}
+
+.faq_question .card-body {
+    border-color: #193f88;
+    background-color: #fff;
+    border: 1px solid #193f88;
+    border-top: 0;
+    border-radius: 0 0 5px 5px;
+    position: relative;
+    padding-left: 40px;
+    line-height: 24px;
+}
+
+.faq_question .card-body::before {
+    content: "";
+    border-left: 2px solid #e5e5e5;
+    position: absolute;
+    left: 20px;
+    top: 0;
+    bottom: 0;
+    margin: 20px 0;
+}
+
+.faq_content .card {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0 none;
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+
+.faq_content .card:last-child {
+    margin-bottom: 0px;
+}
+
+.faq_content .card-header,
+.faq_content5 .card-header {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0 none;
+    padding: 0;
+    z-index: 2;
+}
+
+.faq_content .card-header a {
+    background-color: #193f88;
+    color: #ffffff;
+    border: 1px solid #193f88;
+    border-radius: 5px 5px 0 0;
+    display: block;
+    font-weight: 600;
+    padding: 15px 40px 15px 15px;
+}
+
+.faq_content .card-header a.collapsed {
+    background-color: #ffffff;
+    border-radius: 5px;
+    color: #193f88;
+}
+
+.faq_content .card-body {
+    background-color: #193f88;
+    border-radius: 0 0 5px 5px;
+    color: #ffffff;
+    padding: 10px 15px;
+    position: relative;
+    z-index: 1;
+}
+
+.faq_content .card-header a::after {
+    color: #fff;
+    content: "\f126";
+    font-family: "Ionicons";
+    font-size: 18px;
+    font-weight: normal;
+    position: absolute;
+    right: 15px;
+    top: 14px;
+}
+
+.faq_content .card-header a.collapsed:after {
+    content: "\f123";
+    color: #193f88;
+}
+
+.faq_content .card-header a::before {
+    content: "Q.";
+    font-weight: 600;
+    margin-right: 5px;
+}
+
+/* .card-body::before {
+    content: "A.";
+    font-weight: 600;
+    margin-right: 5px;
+} */
