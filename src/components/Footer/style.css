@@ -160,3 +160,13 @@ footer .bottom_content section {
         display: inline-block;
     }
 }
+
+footer .bottom_content a {
+    z-index: 1000;
+    transition: all 0.3s ease 0s;
+}
+
+footer .bottom_content a:hover {
+    color: #fff;
+    transform: scale(1.1);
+}
