@@ -21,7 +21,7 @@
 
 @media (max-width: 768px) {
     .interview_body .container {
-        padding: 5rem 2rem;
+        padding: 1rem;
     }
 
     .interview_body .card {

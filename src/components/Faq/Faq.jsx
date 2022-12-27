@@ -20,7 +20,7 @@ function Faq() {
                             <div className="card">
                                 <div className="card-header" id="headingOne">
                                     <h6 className="mb-0">
-                                        <a className="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+                                        <a data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" data-bs-toggle="collapse" data-bs-target="#collapseOne">
                                             If the roses are red, why are violets blue? <i className="fa-solid fa-arrow-down"></i>
                                         </a>
                                     </h6>
@@ -35,7 +35,7 @@ function Faq() {
                             <div className="card">
                                 <div className="card-header" id="headingTwo">
                                     <h6 className="mb-0">
-                                        <a className="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
+                                        <a data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
                                             How do you hang toilet paper: over or under? <i className="fa-solid fa-arrow-down"></i>
                                         </a>
                                     </h6>
@@ -49,7 +49,7 @@ function Faq() {
                             <div className="card">
                                 <div className="card-header" id="headingThree">
                                     <h6 className="mb-0">
-                                        <a className="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                                        <a data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" data-bs-toggle="collapse" data-bs-target="#collapseThree">
                                             Why is it that round pizzas come in square boxes? <i className="fa-solid fa-arrow-down"></i>
                                         </a>
                                     </h6>

@@ -8,7 +8,7 @@ footer {
 footer::before {
     content: '';
     background-image: url('/src/assets/about_bg.png');
-    /* background-position: center; */
+    background-position: right;
     background-size: cover;
     position: absolute;
     top: 0px;
