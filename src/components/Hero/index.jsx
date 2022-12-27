@@ -4,6 +4,7 @@ import './style.css'
 export default function Hero() {
     return (
         <section className="section_banner section_gradiant3 overflow_hide" style={{ height: 'calc(100vh + 100px)' }}>
+            <canvas id="banner_canvas" className="transparent_effect" width="1233" height="601"></canvas>
             <div id="hero" className="landing-main">
                 <h1 data-aos="fade-up" className="name aos-init aos-animate" style={{ zIndex: '10' }}>Coding Club</h1>
                 <div data-aos="fade-up" className="name-2 aos-init aos-animate" style={{ zIndex: '10' }}>
@@ -23,7 +24,6 @@ export default function Hero() {
                     <div className='verticalLine'></div>
                 </div>
             </div>
-            <canvas id="banner_canvas" className="transparent_effect" width="1233" height="601"></canvas>
         </section>
     )
 }

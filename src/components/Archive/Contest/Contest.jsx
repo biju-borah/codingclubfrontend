@@ -15,7 +15,7 @@ function Contest() {
                         </div>
                     </div>
                 </div>
-                <div className="row align-items-center">
+                <div className="row align-items-center contest_card">
                     <div className="col-lg-3">
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s" style={{ animationDelay: "0.2s", opacity: "1" }}>
                             <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
