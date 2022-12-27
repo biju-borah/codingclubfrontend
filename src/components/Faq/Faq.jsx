@@ -3,7 +3,7 @@ import './style.css'
 
 function Faq() {
     return (
-        <section id="faq">
+        <section id="faq" className='faq_question'>
             <div className="container">
                 <div className="row">
                     <div className="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
@@ -19,11 +19,11 @@ function Faq() {
                         <div className="accordion" id="accordionExample">
                             <div className="card">
                                 <div className="card-header" id="headingOne">
-                                    <h2 className="mb-0">
-                                        <button className="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+                                    <h6 className="mb-0">
+                                        <a className="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" data-bs-toggle="collapse" data-bs-target="#collapseOne">
                                             Collapsible Group Item #1
-                                        </button>
-                                    </h2>
+                                        </a>
+                                    </h6>
                                 </div>
 
                                 <div id="collapseOne" className="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
@@ -34,11 +34,11 @@ function Faq() {
                             </div>
                             <div className="card">
                                 <div className="card-header" id="headingTwo">
-                                    <h2 className="mb-0">
-                                        <button className="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
+                                    <h6 className="mb-0">
+                                        <a className="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
                                             Collapsible Group Item #2
-                                        </button>
-                                    </h2>
+                                        </a>
+                                    </h6>
                                 </div>
                                 <div id="collapseTwo" className="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                                     <div className="card-body">
@@ -48,11 +48,11 @@ function Faq() {
                             </div>
                             <div className="card">
                                 <div className="card-header" id="headingThree">
-                                    <h2 className="mb-0">
-                                        <button className="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                                    <h6 className="mb-0">
+                                        <a className="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" data-bs-toggle="collapse" data-bs-target="#collapseThree">
                                             Collapsible Group Item #3
-                                        </button>
-                                    </h2>
+                                        </a>
+                                    </h6>
                                 </div>
                                 <div id="collapseThree" className="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                                     <div className="card-body">
