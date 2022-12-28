@@ -1,7 +1,8 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import './style.css'
 
 export default function Hero() {
+
     return (
         <section className="section_banner section_gradiant3 overflow_hide" style={{ height: 'calc(100vh + 100px)' }}>
             <div id="hero" className="landing-main">
