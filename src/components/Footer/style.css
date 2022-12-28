@@ -115,6 +115,11 @@ footer .bottom_content section {
     justify-content: Center;
 }
 
+.bottom_content {
+    z-index: 5000;
+    position: relative;
+}
+
 .bottom_content a {
     margin: 0 20px;
     color: rgba(255, 255, 255, 0.7);
