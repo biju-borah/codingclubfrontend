@@ -2,6 +2,10 @@ import React from 'react'
 import WaveDivider from '../../utils/WaveDivider'
 import './style.css'
 import codejutsu from '../../../assets/contest/codejutsu.jpg'
+import nibble from '../../../assets/contest/nibble.jpg'
+import nitshack from '../../../assets/contest/nitshack.jpg'
+import zeroth from '../../../assets/contest/zeroth.jpg'
+import logo from '../../../assets/logo-full.png'
 
 function Contest() {
     return (
@@ -22,7 +26,7 @@ function Contest() {
                             <img src={codejutsu} className="card-img-top img-fluid" alt="card" />
                         </div>
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
-                            <img src="/src/assets/contest/nibble.jpg" className="card-img-top img-fluid" alt="card" />
+                            <img src={nibble} className="card-img-top img-fluid" alt="card" />
                         </div>
                         {/* <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
                             <img src="/vite.svg" className="card-img-top img-fluid" alt="card" />
@@ -30,15 +34,15 @@ function Contest() {
                     </div>
                     <div className="col-lg-6">
                         <div className="big_card text-center animation animated fadeIn" data-animation="fadeIn" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
-                            <img src="/src/assets/logo-full.png" className="card-img-top img-fluid" alt="card" />
+                            <img src={logo} className="card-img-top img-fluid" alt="card" />
                         </div>
                     </div>
                     <div className="col-lg-3">
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s" style={{ animationDelay: "0.2s", opacity: "1" }}>
-                            <img src="/src/assets/contest/nitshack.jpg" className="card-img-top img-fluid" alt="card" />
+                            <img src={nitshack} className="card-img-top img-fluid" alt="card" />
                         </div>
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
-                            <img src="/src/assets/contest/zeroth.jpg" className="card-img-top img-fluid" alt="card" />
+                            <img src={zeroth} className="card-img-top img-fluid" alt="card" />
                         </div>
                         {/* <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
                             <img src="/vite.svg" className="card-img-top img-fluid" alt="card" />
