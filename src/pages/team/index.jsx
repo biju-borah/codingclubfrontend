@@ -1,6 +1,21 @@
 import React from 'react'
 import './style.css'
 
+import harsh from '../../assets/team/harsh.png'
+import abhinab from '../../assets/team/abhinab.png'
+import abhinash from '../../assets/team/abhinash.png'
+import abhishek from '../../assets/team/abhishek.png'
+import anshuman from '../../assets/team/anshuman.png'
+import arpana from '../../assets/team/arpana.png'
+import biley from '../../assets/team/biley.png'
+import debo from '../../assets/team/debo.png'
+import dhritishman from '../../assets/team/dhritishman.png'
+import jintumoni from '../../assets/team/jintumoni.png'
+import palash from '../../assets/team/palash.png'
+import rishu from '../../assets/team/rishu.png'
+import shubam from '../../assets/team/shubam.png'
+import tushar from '../../assets/team/tushar.png'
+
 function Team() {
     return (
         <>
@@ -17,12 +32,12 @@ function Team() {
                             </div>
                         </div>
                     </div>
-                    <div className="row small_space">
+                    <div className="row small_space" style={{ display: 'flex', justifyContent: 'center' }}>
                         <div className="col-lg-3 col-md-6 col-sm-6 res_md_mb_30 res_sm_mb_20">
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/harsh.png" alt="team1" />
+                                    <img src={harsh} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -51,7 +66,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/debo.png" alt="team1" />
+                                    <img src={debo} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -80,7 +95,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/abhinab.png" alt="team1" />
+                                    <img src={abhinab} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -109,7 +124,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/abhinash.png" alt="team1" />
+                                    <img src={abhinash} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -138,7 +153,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/abhishek.png" alt="team1" />
+                                    <img src={abhishek} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -167,7 +182,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/anshuman.png" alt="team1" />
+                                    <img src={anshuman} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -196,7 +211,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/arpana.png" alt="team1" />
+                                    <img src={arpana} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -225,7 +240,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/biley.png" alt="team1" />
+                                    <img src={biley} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -254,7 +269,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/dhritishman.png" alt="team1" />
+                                    <img src={dhritishman} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -283,7 +298,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/jintumoni.png" alt="team1" />
+                                    <img src={jintumoni} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -312,7 +327,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/palash.png" alt="team1" />
+                                    <img src={palash} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -341,7 +356,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/rishu.png" alt="team1" />
+                                    <img src={rishu} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -370,7 +385,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/shubam.png" alt="team1" />
+                                    <img src={shubam} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -399,7 +414,7 @@ function Team() {
                             <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
                                 data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                                 <div className="text-center">
-                                    <img src="/src/assets/team/tushar.png" alt="team1" />
+                                    <img src={tushar} alt="team1" />
                                     <div className="team_social_s2 list_none">
                                         <ul>
                                             <li><a
@@ -420,35 +435,6 @@ function Team() {
                                 <div className="team_info text-center">
                                     <h4><a href="#team"
                                         className="content-popup">Tushar Sacchan</a></h4>
-                                    <p>Co-Head</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-lg-3 col-md-6 col-sm-6 res_md_mb_30 res_sm_mb_20">
-                            <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
-                                data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
-                                <div className="text-center">
-                                    <img src="/src/assets/team/anshuman.png" alt="team1" />
-                                    <div className="team_social_s2 list_none">
-                                        <ul>
-                                            <li><a
-                                                href="#"><i
-                                                    className="fa fa-facebook"></i></a></li>
-                                            <li><a
-                                                href="#"><i
-                                                    className="fa fa-twitter"></i></a></li>
-                                            <li><a
-                                                href="#"><i
-                                                    className="fa fa-linkedin"></i></a></li>
-                                            <li><a
-                                                href="#"><i
-                                                    className="fa fa-github"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div className="team_info text-center">
-                                    <h4><a href="#team"
-                                        className="content-popup">Anshuman Bhowmik</a></h4>
                                     <p>Co-Head</p>
                                 </div>
                             </div>
