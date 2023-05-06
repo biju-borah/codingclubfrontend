@@ -18,29 +18,29 @@ function Contest() {
                 <div className="row align-items-center contest_card">
                     <div className="col-lg-3">
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s" style={{ animationDelay: "0.2s", opacity: "1" }}>
-                            <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
+                            <img src="/src/assets/contest/codejutsu.jpg" className="card-img-top img-fluid" alt="card" />
                         </div>
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
-                            <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
+                            <img src="/src/assets/contest/nibble.jpg" className="card-img-top img-fluid" alt="card" />
                         </div>
                         {/* <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
-                            <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
+                            <img src="/vite.svg" className="card-img-top img-fluid" alt="card" />
                         </div> */}
                     </div>
                     <div className="col-lg-6">
                         <div className="big_card text-center animation animated fadeIn" data-animation="fadeIn" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
-                            <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
+                            <img src="/src/assets/logo-full.png" className="card-img-top img-fluid" alt="card" />
                         </div>
                     </div>
                     <div className="col-lg-3">
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s" style={{ animationDelay: "0.2s", opacity: "1" }}>
-                            <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
+                            <img src="/src/assets/contest/nitshack.jpg" className="card-img-top img-fluid" alt="card" />
                         </div>
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
-                            <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
+                            <img src="/src/assets/contest/zeroth.jpg" className="card-img-top img-fluid" alt="card" />
                         </div>
                         {/* <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
-                            <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
+                            <img src="/vite.svg" className="card-img-top img-fluid" alt="card" />
                         </div> */}
                     </div>
                 </div>
