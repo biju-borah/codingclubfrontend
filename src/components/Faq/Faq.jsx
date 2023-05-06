@@ -21,14 +21,14 @@ function Faq() {
                                 <div className="card-header" id="headingOne">
                                     <h6 className="mb-0">
                                         <a data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" data-bs-toggle="collapse" data-bs-target="#collapseOne">
-                                            If the roses are red, why are violets blue? <i className="fa-solid fa-arrow-down"></i>
+                                            What is the purpose of the coding club? <i className="fa-solid fa-arrow-down"></i>
                                         </a>
                                     </h6>
                                 </div>
 
                                 <div id="collapseOne" className="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                                     <div className="card-body">
-                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                        The purpose of the coding club is to provide a supportive and collaborative environment for individuals interested in learning and practicing coding skills.
                                     </div>
                                 </div>
                             </div>
@@ -36,13 +36,13 @@ function Faq() {
                                 <div className="card-header" id="headingTwo">
                                     <h6 className="mb-0">
                                         <a data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" data-bs-toggle="collapse" data-bs-target="#collapseTwo" className='collapsed'>
-                                            How do you hang toilet paper: over or under? <i className="fa-solid fa-arrow-down"></i>
+                                            What activities does the coding club offer? <i className="fa-solid fa-arrow-down"></i>
                                         </a>
                                     </h6>
                                 </div>
                                 <div id="collapseTwo" className="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                                     <div className="card-body">
-                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                        The coding club may offer a range of activities such as workshops, coding challenges, hackathons, guest speakers, and networking events.
                                     </div>
                                 </div>
                             </div>
@@ -50,13 +50,13 @@ function Faq() {
                                 <div className="card-header" id="headingThree">
                                     <h6 className="mb-0">
                                         <a data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" data-bs-toggle="collapse" data-bs-target="#collapseThree" className='collapsed'>
-                                            Why is it that round pizzas come in square boxes? <i className="fa-solid fa-arrow-down"></i>
+                                            How can I stay informed about the coding club's activities and events? <i className="fa-solid fa-arrow-down"></i>
                                         </a>
                                     </h6>
                                 </div>
                                 <div id="collapseThree" className="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                                     <div className="card-body">
-                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                                        You can stay informed about the coding club's activities and events by regularly checking the club's website, subscribing to the club's newsletter, or following the club on social media platforms.
                                     </div>
                                 </div>
                             </div>
