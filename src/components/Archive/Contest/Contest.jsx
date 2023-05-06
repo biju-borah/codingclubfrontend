@@ -23,9 +23,9 @@ function Contest() {
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                             <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
                         </div>
-                        <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
+                        {/* <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
                             <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
-                        </div>
+                        </div> */}
                     </div>
                     <div className="col-lg-6">
                         <div className="big_card text-center animation animated fadeIn" data-animation="fadeIn" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
@@ -39,9 +39,9 @@ function Contest() {
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                             <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
                         </div>
-                        <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
+                        {/* <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.6s" style={{ animationDelay: "0.6s", opacity: "1" }}>
                             <img src="/vite.svg" className="card-img-top img-fluid p-5" alt="card" />
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

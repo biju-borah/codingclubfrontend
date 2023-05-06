@@ -41,7 +41,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Harsh Agarwala</a></h4>
                                     <p>Head</p>
                                 </div>
@@ -70,7 +70,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Debodipto Bishwas</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -99,7 +99,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Abhinab Saha</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -128,7 +128,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Abhinash Giri</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -157,7 +157,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Abhishek Pandey</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -186,7 +186,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Anshuman Bhowmik</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -215,7 +215,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Arpana Gogoi</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -244,7 +244,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Biley Roy</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -273,7 +273,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Dhritishman Kokati</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -302,7 +302,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Jintumoni Kalita</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -331,7 +331,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Palash Protim Deka</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -360,7 +360,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Rishu Kumar</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -389,7 +389,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Shubam Kumar</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -418,7 +418,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Tushar Sacchan</a></h4>
                                     <p>Co-Head</p>
                                 </div>
@@ -447,7 +447,7 @@ function Team() {
                                     </div>
                                 </div>
                                 <div className="team_info text-center">
-                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                    <h4><a href="#team"
                                         className="content-popup">Anshuman Bhowmik</a></h4>
                                     <p>Co-Head</p>
                                 </div>
