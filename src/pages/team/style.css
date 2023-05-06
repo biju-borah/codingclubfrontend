@@ -1,5 +1,16 @@
-li {
+#team {
+    background-color: whitesmoke;
+    padding: 5rem 2rem;
+}
+
+#team li {
     list-style-type: none;
+}
+
+#team img {
+    width: 20rem;
+    height: 20rem;
+    object-fit: contain;
 }
 
 .team_info {
@@ -248,6 +259,8 @@ li {
 
 .team_box_s3 {
     padding: 20px 20px;
+    margin: 20px 0;
+    padding-top: 0;
 }
 
 .team_social_s2 {

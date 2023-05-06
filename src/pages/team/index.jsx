@@ -4,7 +4,7 @@ import './style.css'
 function Team() {
     return (
         <>
-            <section id="team" className="bg_gray3" style={{ margin: '5rem auto' }}>
+            <section id="team" className="bg_gray3">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6 col-md-12 offset-lg-3">
@@ -12,8 +12,8 @@ function Team() {
                                 <h4 className="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s"
                                     style={{ animationDelay: "0.2s", opacity: "1" }}>Our Core Team</h4>
                                 <p className="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s"
-                                    style={{ animationDelay: "0.4s", opacity: "1" }}>we are proud of our great team. He is one of the
-                                    most motivated and is always ready and willing to help out where needed. </p>
+                                    style={{ animationDelay: "0.4s", opacity: "1" }}>We are proud of our great team. They are one of the
+                                    most motivated and are always ready and willing to help out where needed. </p>
                             </div>
                         </div>
                     </div>
@@ -44,6 +44,35 @@ function Team() {
                                     <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
                                         className="content-popup">Harsh Agarwala</a></h4>
                                     <p>Head</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-3 col-md-6 col-sm-6 res_md_mb_30 res_sm_mb_20">
+                            <div className="bg-white radius_box team_box_s3 animation animated fadeInUp" data-animation="fadeInUp"
+                                data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
+                                <div className="text-center">
+                                    <img src="/src/assets/team/debo.png" alt="team1" />
+                                    <div className="team_social_s2 list_none">
+                                        <ul>
+                                            <li><a
+                                                href="#"><i
+                                                    className="fa fa-facebook"></i></a></li>
+                                            <li><a
+                                                href="#"><i
+                                                    className="fa fa-twitter"></i></a></li>
+                                            <li><a
+                                                href="#"><i
+                                                    className="fa fa-linkedin"></i></a></li>
+                                            <li><a
+                                                href="#"><i
+                                                    className="fa fa-github"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div className="team_info text-center">
+                                    <h4><a href="https://bestwebcreator.com/cryptocash/demo/index-cyan-blue-modern.html#team1"
+                                        className="content-popup">Debodipto Bishwas</a></h4>
+                                    <p>Co-Head</p>
                                 </div>
                             </div>
                         </div>

@@ -18,7 +18,7 @@ function Home() {
             <Interview />
             <Youtube />
             <Contest />
-            {/* <Team /> */}
+            <Team />
             <Faq />
             <Footer />
         </>
