@@ -7,6 +7,7 @@ import Footer from '../../components/Footer/Footer'
 import Hero from '../../components/Hero'
 import Navbar from '../../components/Navbar'
 import Youtube from '../../components/Youtube/Youtube'
+import Team from '../team'
 
 function Home() {
     return (
@@ -17,6 +18,7 @@ function Home() {
             <Interview />
             <Youtube />
             <Contest />
+            {/* <Team /> */}
             <Faq />
             <Footer />
         </>

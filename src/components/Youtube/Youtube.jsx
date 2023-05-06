@@ -20,7 +20,7 @@ function Youtube() {
                     <div className="row align-items-center justify-content-around g-0">
                         <div className="col-lg-4 col-md-8 col-sm-8 yt-card">
                             <div className="embed-responsive embed-responsive-16by9">
-                                <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/dZbU19tD0qA" allowFullScreen></iframe>
+                                <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/UGAiA11gaW0" allowFullScreen></iframe>
                             </div>
                         </div>
                         {/* <div className="col-lg-4 col-md-8 col-sm-8 yt-card">
