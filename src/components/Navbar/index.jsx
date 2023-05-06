@@ -22,7 +22,7 @@ function Navbar() {
         <nav className={active ? "navbar navbar-expand-lg navbar-dark bg-dark nav-color" : "navbar navbar-expand-lg navbar-dark bg-dark nav-tran"} id="navbar">
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">
-                    <img src="./src/assets/logo.png" alt="Bootstrap" width="30" style={{ marginLeft: '1rem' }} />
+                    <img src="/src/assets/logo.png" alt="Bootstrap" width="30" style={{ marginLeft: '1rem' }} />
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
