@@ -10,7 +10,7 @@ function Contest() {
                     <div className="col-lg-8 offset-lg-2 col-md-12 col-sm-12">
                         <div className="title_default_light title_border text-center">
                             <h4 className="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s" style={{ animationDelay: "0.2s", opacity: "1" }}>Coding Archive</h4>
-                            <p className="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>Almost everything today runs on code. Coding is one of the most essential skills for an engineer. With the same outlook in mind, the coding club strives to teach the students to code. It trains students in the commonest languages from beginner to advanced levels. NIT Silchar proudly flaunts some of the best coders in the nation.
+                            <p className="animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>Welcome to our Contest Archive section, where we showcase past coding contests and challenges that our club has organized or participated in. These contests provide a great opportunity for our members to test their coding skills, compete with others, and win exciting prizes.
                             </p>
                         </div>
                     </div>
