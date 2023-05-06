@@ -1,6 +1,7 @@
 import React from 'react'
 import WaveDivider from '../../utils/WaveDivider'
 import './style.css'
+import codejutsu from '../../../assets/contest/codejutsu.jpg'
 
 function Contest() {
     return (
@@ -18,7 +19,7 @@ function Contest() {
                 <div className="row align-items-center contest_card">
                     <div className="col-lg-3">
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.2s" style={{ animationDelay: "0.2s", opacity: "1" }}>
-                            <img src="/src/assets/contest/codejutsu.jpg" className="card-img-top img-fluid" alt="card" />
+                            <img src={codejutsu} className="card-img-top img-fluid" alt="card" />
                         </div>
                         <div className="card text-center animation animated fadeInUp" data-animation="fadeInUp" data-animation-delay="0.4s" style={{ animationDelay: "0.4s", opacity: "1" }}>
                             <img src="/src/assets/contest/nibble.jpg" className="card-img-top img-fluid" alt="card" />
